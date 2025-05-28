@@ -8,36 +8,39 @@
   <li>🏫 Student at ITMO University (St. Petersburg)</li>
   </ul>
 <h3>📫 How to reach me</h3>
-<ul>
+<ul style="list-style: none; padding-left: 0;">
   <li>
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg"
-      alt="Discord"
-      width="26"
-      height="26"
-      style="vertical-align: middle; margin-right: 8px;"
-    />
-    <strong>discord:</strong> hihika
+    <span style="display: inline-flex; align-items: center; gap: 8px;">
+      <img
+        src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg"
+        alt="Discord"
+        width="26"
+        height="26"
+      />
+      <strong>discord:</strong> hihika
+    </span>
   </li>
   <li>
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
-      alt="Gmail"
-      width="26"
-      height="26"
-      style="vertical-align: middle; margin-right: 8px;"
-    />
-    <strong>e-mail:</strong> heheka800@gmail.com
+    <span style="display: inline-flex; align-items: center; gap: 8px;">
+      <img
+        src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+        alt="Gmail"
+        width="26"
+        height="26"
+      />
+      <strong>e-mail:</strong> heheka800@gmail.com
+    </span>
   </li>
   <li>
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg"
-      alt="Telegram"
-      width="26"
-      height="26"
-      style="vertical-align: middle; margin-right: 8px;"
-    />
-    <strong>telegram:</strong> <a href="https://t.me/hihikaAAa">click</a>
+    <span style="display: inline-flex; align-items: center; gap: 8px;">
+      <img
+        src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg"
+        alt="Telegram"
+        width="26"
+        height="26"
+      />
+      <strong>telegram:</strong> <a href="https://t.me/hihikaAAa">click</a>
+    </span>
   </li>
 </ul>
 
