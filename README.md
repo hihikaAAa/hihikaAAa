@@ -2,8 +2,12 @@
 <h3 align="center">A passionate backend developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hihikaaa&label=Profile%20views&color=0e75b6&style=flat" alt="hihikaaa" /> </p>
-
-- 📫 How to reach me
+About me
+<ul>
+ <li>👀 19 years old</li>
+  <li>🏫 student at ITMO University (St. Petersburg)</li>
+  </ul>
+📫 How to reach me
  <ul>
   <li><img align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" />
 <b> discord:</b> hihika</li>
