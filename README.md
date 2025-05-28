@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi there, I'm Sergei!</h1>👋
+<h1 align="center">👋Hi there, I'm Sergei!👋</h1>
 <h3 align="center">Welcome to my repository</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hihikaaa&label=Profile%20views&color=0e75b6&style=flat" alt="hihikaaa" /> </p>
@@ -15,9 +15,9 @@
       alt="Discord"
       width="26"
       height="26"
-      style="vertical-align: middle; margin-right: 6px;"
+      style="vertical-align: middle; margin-right: 8px;"
     />
-    <b>discord:</b> hihika
+    <strong>discord:</strong> hihika
   </li>
   <li>
     <img
@@ -25,9 +25,9 @@
       alt="Gmail"
       width="26"
       height="26"
-      style="vertical-align: middle; margin-right: 6px;"
+      style="vertical-align: middle; margin-right: 8px;"
     />
-    <b>e-mail:</b> heheka800@gmail.com
+    <strong>e-mail:</strong> heheka800@gmail.com
   </li>
   <li>
     <img
@@ -35,12 +35,14 @@
       alt="Telegram"
       width="26"
       height="26"
-      style="vertical-align: middle; margin-right: 6px;"
+      style="vertical-align: middle; margin-right: 8px;"
     />
-    <b>telegram:</b> <a href="https://t.me/hihikaAAa">click</a>
+    <strong>telegram:</strong> <a href="https://t.me/hihikaAAa">click</a>
   </li>
 </ul>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hihikaAAa&layout=compact&theme=highcontrast)
+
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
