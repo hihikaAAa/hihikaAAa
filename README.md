@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Sergey!</h1>
+<h1 align="center">Hi there, I'm Sergei!</h1>
 <h3 align="center">Welcome to my repository</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hihikaaa&label=Profile%20views&color=0e75b6&style=flat" alt="hihikaaa" /> </p>
-<h3>About me</h3>
+<h3>🖥️About me</h3>
 <ul>
  <li>👀 19 years old</li>
   <li>🏫 Student at ITMO University (St. Petersburg)</li>
@@ -14,7 +14,7 @@
   <li><img align="left" alt="Gmail"    width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" /><b> e-mail:</b> heheka800@gmail.com</li>
   <li><img align="left" alt="Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" /><b> telegram:</b> <a href = "https://t.me/hihikaAAa">click</a></li>
 </ul>
-
+<br clear="left"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hihikaAAa&layout=compact&theme=highcontrast)
 
 <h3 align="left">Tech Stack:</h3>
