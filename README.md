@@ -8,13 +8,9 @@
   <li>🏫 Student at ITMO University (St. Petersburg)</li>
   </ul>
 <h3>📫 How to reach me</h3>
- <ul>
-  <li><img align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" />
-<b> discord:</b> hihika</li>
-  <li><img align="left" alt="Gmail"    width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" /><b> e-mail:</b> heheka800@gmail.com</li>
-  <li><img align="left" alt="Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" /><b> telegram:</b> <a href = "https://t.me/hihikaAAa">click</a></li>
-</ul>
-<br clear="left"/>
+- ![Discord](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg) **discord:** hihika  
+- ![Gmail](  https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)   **e-mail:** heheka800@gmail.com  
+- ![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg) **telegram:** [click](https://t.me/hihikaAAa)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hihikaAAa&layout=compact&theme=highcontrast)
 
 <h3 align="left">Tech Stack:</h3>
